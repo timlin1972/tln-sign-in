@@ -1,0 +1,23 @@
+{
+  "name": "tln-sign-in",
+  "version": "1.0.0",
+  "description": "tln-sign-in",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timlin1972/tln-sign-in.git"
+  },
+  "keywords": [
+    "sign-in",
+    "client"
+  ],
+  "author": "Tim Lin <timlin1972@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timlin1972/tln-sign-in/issues"
+  },
+  "homepage": "https://github.com/timlin1972/tln-sign-in#readme"
+}
